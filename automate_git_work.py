@@ -42,7 +42,7 @@ def run_application():
     try:
         print("Starting the application...")
         logging.info("Launching the TodoApp.")
-        subprocess.run([sys.executable, "git_work.py"])  # Replace 'git_work.py' with your main program's filename
+        subprocess.run([sys.executable, "git_work.py"]) 
     except Exception as e:
         logging.error("Failed to start the application: %s", e)
         print("Error while starting the application. Check the logs for details.")
