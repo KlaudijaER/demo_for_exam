@@ -1,0 +1,17 @@
+2024-11-22 22:08:40,422 - INFO - Starting unit tests.
+2024-11-22 22:08:40,735 - INFO - All tests passed successfully!
+2024-11-22 22:08:40,736 - INFO - Launching the TodoApp.
+2024-11-22 22:09:07,669 - INFO - Starting unit tests.
+2024-11-22 22:09:07,986 - INFO - All tests passed successfully!
+2024-11-22 22:09:07,987 - INFO - Launching the TodoApp.
+2024-11-22 22:10:36,134 - INFO - Starting unit tests.
+2024-11-22 22:10:36,481 - INFO - Task 'Test Task 1' added.
+Task 'Test Task 2' added.
+Task ID '1' marked as completed.
+Task 'Test Task 3' added.
+Task ID '1' deleted.
+Task 'Test Task 4' added.
+Task 'Test Task 5' added.
+
+2024-11-22 22:10:36,482 - INFO - All tests passed successfully!
+2024-11-22 22:10:36,483 - INFO - Launching the TodoApp.
